@@ -1,0 +1,10 @@
+{
+  "report": "dept budget actuals",
+  "period": "FY24 Q2",
+  "data": [
+    {"dept": "parks", "b": "120,000", "act": "132500"},
+    {"dept": "WATER", "b": 95000, "act": "88,200"},
+    {"dept": "Waste", "b": 75000, "act": 80000},
+    {"dept": "it", "b": 104000, "act": 102400}
+  ]
+}
